@@ -5,8 +5,6 @@
 ![image](https://user-images.githubusercontent.com/95579213/194233421-4464eb46-ea10-4f37-8b15-40dfcdbc6ddc.png)
 ### Admin Dashboards
 ![image](https://user-images.githubusercontent.com/95579213/194233924-ff41f645-8bd9-4e37-a903-2daef522199a.png)
-![image](https://user-images.githubusercontent.com/95579213/194234554-62c47a90-24d9-47be-ae2a-3519c80d7854.png)
-![image](https://user-images.githubusercontent.com/95579213/194234745-112edabb-c879-46da-8d2c-7e096e22ce75.png)
 ![image](https://user-images.githubusercontent.com/95579213/194234995-c5af22c4-659b-4714-a0b6-c55319f3da5d.png)
 ### Employee Dashboard
 ![image](https://user-images.githubusercontent.com/95579213/194235522-e7816e29-c214-4ee4-98f2-b0b82e2bdc6b.png)
